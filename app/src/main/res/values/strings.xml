@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Editor</string>
+    <string name="open">Open</string>
+    <string name="taptoopen">Tap anywhere to open a photo</string>
+    <string name="save">Save</string>
+    <string name="crop">Crop</string>
+    <string name="tools">Tools</string>
+    <string name="flipv">Flip Vertical</string>
+    <string name="fliph">Flip Horizontal</string>
+</resources>
